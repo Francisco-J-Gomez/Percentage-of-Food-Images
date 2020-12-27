@@ -2,7 +2,7 @@
 Here I develop 3 different approaches based on CNN to calculate the percentage of food (pixels) in images.
 
 ### [Models](models.py)
-We can find the different models>
+We can find the different models:
  - ResNet
  - VGG
  - Ad hoc
