@@ -15,3 +15,8 @@ File containing the different variables needed to run the project (images folder
 ### [Training](training.py)
 
 Here we load the data, create the different keras generators and callbacks and train and evaluate the selected model.
+
+---
+
+![Image](https://github.com/[username]/[reponame]/blob/[branch]/food_perc.png?raw=true)
+
