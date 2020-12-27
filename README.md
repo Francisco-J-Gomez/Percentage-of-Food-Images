@@ -8,10 +8,10 @@ We can find the different models>
  - Ad hoc
 ---
 
-### Config
+### [Config](config.py)
 File containing the different variables needed to run the project (images folder. epochs, batch size...)
 
 ---
-### Training
+### [Training](training.py)
 
 Here we load the data, create the different keras generators and callbacks and train and evaluate the selected model.
