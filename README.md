@@ -18,5 +18,5 @@ Here we load the data, create the different keras generators and callbacks and t
 
 ---
 
-![Image](https://github.com/[username]/[reponame]/blob/[branch]/food_perc.PNG?raw=true)
+![Image](https://github.com/Francisco-J-Gomez/Percentage-of-Food-Images/blob/Master/food_perc.PNG?raw=true)
 
